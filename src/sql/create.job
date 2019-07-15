@@ -1,0 +1,3 @@
+#create
+type=command
+command=sh createjob.sh
